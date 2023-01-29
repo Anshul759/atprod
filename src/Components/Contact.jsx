@@ -5,7 +5,7 @@ import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 const Container = styled.div`
   min-height: 60vh;
   padding-top: 20px;
-  background-color: #ffffff;
+  background-color: #f6f6f6;
   @media (max-width: 700px) {
     height: auto;
   }
@@ -72,7 +72,7 @@ const Button = styled.button`
 
 const Link = styled.a`
   text-decoration: none;
-`
+`;
 
 function Contact() {
   return (
@@ -84,7 +84,7 @@ function Contact() {
           Tell us a little bit about your project. We will get back to you as
           soon as you can with some ideas of how we can make your story shine.
         </Desc>
-        <Link href="https://wa.me/917008214269?text=Hi">
+        <Link href="https://wa.me/919658065899">
           <ButtonGroup>
             <WhatsAppIcon sx={{ color: "white" }} />
             <Button>Message Us on Whatsapp</Button>

@@ -86,7 +86,7 @@ const Introduction = () => {
           <InfoWrapper>
             <Title>BEING THE VOICE OF THE FARMERS</Title>
             <Desc>Bring your story to life!</Desc>
-            <a href="mailto:1905759@kiit.ac.in">
+            <a href="mailto:sales.atproductions@gmail.com">
               <Button>Contact Us</Button>
             </a>
           </InfoWrapper>
