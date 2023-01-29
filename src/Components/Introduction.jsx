@@ -1,5 +1,7 @@
 import React from "react";
 import styled from "styled-components";
+import Videourl from '../Images/video.mp4'
+
 
 const Container = styled.div`
   background-color: #25222a;
@@ -77,7 +79,7 @@ const Introduction = () => {
         <VideoContainer>
           <Video autoPlay loop muted>
             <source
-              src="https://mdbootstrap.com/img/video/animation-intro.mp4"
+              src={Videourl}
               type="video/mp4"
             />
           </Video>

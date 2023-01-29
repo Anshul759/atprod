@@ -20,7 +20,7 @@ function App() {
       <Video />
       <Images />
       <Contact /> 
-      <Maps isMarkerShown />
+      {/* <Maps isMarkerShown /> */}
       <Footer /> 
     </div>
   );
